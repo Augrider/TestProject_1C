@@ -1,0 +1,17 @@
+{
+    "name": "Game.UI.ItemShop",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1a9a354aeb56db945b6221066a6fcb32",
+        "GUID:898d27e7d7f307449a68ea64a9664293"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
